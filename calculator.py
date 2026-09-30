@@ -1,4 +1,6 @@
-﻿def jam():
+﻿# Terminal Calculator Version 1.1
+
+def jam():
 
     try:
         x = 0
