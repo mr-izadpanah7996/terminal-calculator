@@ -1,5 +1,7 @@
 ﻿# Terminal Calculator Version 1.1
 
+# Terminal Calculator Version 1.2
+
 def jam():
 
     try:
