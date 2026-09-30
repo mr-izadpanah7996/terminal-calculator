@@ -1,4 +1,8 @@
-﻿# Terminal Calculator Version 1.1
+﻿import time
+
+to_day = time.time()
+
+# Terminal Calculator Version 1.1
 
 # Terminal Calculator Version 1.2
 
